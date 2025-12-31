@@ -1,5 +1,19 @@
 # @tanstack/lit-form
 
+## 1.23.19
+
+### Patch Changes
+
+- Updated dependencies [[`3519cce`](https://github.com/TanStack/form/commit/3519cce63072e87989bfa1b83b845e8d645d2725)]:
+  - @tanstack/form-core@1.27.7
+
+## 1.23.18
+
+### Patch Changes
+
+- Updated dependencies [[`c526378`](https://github.com/TanStack/form/commit/c5263786ed8b12144837ddb87f43c87fa4efc2d4)]:
+  - @tanstack/form-core@1.27.6
+
 ## 1.23.17
 
 ### Patch Changes
